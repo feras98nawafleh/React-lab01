@@ -1,9 +1,9 @@
 import { React, Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Header from "./components/Header";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
-import SelectedBeast from "./components/SelectedBeast";
+// import Header from "./components/Header";
+// import Main from "./components/Main";
+// import Footer from "./components/Footer";
+// import SelectedBeast from "./components/SelectedBeast";
 
 class App extends Component {
   constructor(props) {
