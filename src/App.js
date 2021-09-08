@@ -5,6 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 // import Footer from "./components/Footer";
 // import SelectedBeast from "./components/SelectedBeast";
 
+/* Failed to compile
+./src/App.js
+Module not found: Can't resolve './components/Footer' in '/home/ferasnawafleh/projects/react-lab01/src'
+*/
+
 class App extends Component {
   constructor(props) {
     super(props);
