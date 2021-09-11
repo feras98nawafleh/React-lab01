@@ -1,14 +1,9 @@
 import { React, Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css'
-// import Header from "./components/Header";
-// import Main from "./components/Main";
-// import Footer from "./components/Footer";
-// import SelectedBeast from "./components/SelectedBeast";
-
-/* Failed to compile
-./src/App.js
-Module not found: Can't resolve './components/Footer' in '/home/ferasnawafleh/projects/react-lab01/src'
-*/
+import Header from "./Components/Header";
+import Main from "./Components/Main";
+import Footer from "./Components/Footer";
+import SelectedBeast from "./Components/SelectedBeast ";
 
 class App extends Component {
   constructor(props) {

@@ -1,4 +1,3 @@
-  
 import React, { Component } from 'react'
 import { Modal, Button } from "react-bootstrap";
 
@@ -41,4 +40,4 @@ class SelectedBeast extends Component {
   }
 }
 
-export default SelectedBeast
+export default SelectedBeast;
