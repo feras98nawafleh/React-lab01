@@ -25,7 +25,6 @@ class Main extends Component {
         {
           this.state.beastData.map(item => {
           return <HornedBeast
-            return <HornedBeast
             keyword={item.keyword}
             image_url={item.image_url}
             title={item.title}
