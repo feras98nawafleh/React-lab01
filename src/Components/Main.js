@@ -7,8 +7,13 @@ class Main extends Component {
     return (
       <>
         {
+<<<<<<< Updated upstream
           beastData.map(item => {
           return <HornedBeast
+=======
+          this.state.beastData.map(item => {
+            return <HornedBeast
+>>>>>>> Stashed changes
             keyword={item.keyword}
             image_url={item.image_url}
             title={item.title}
